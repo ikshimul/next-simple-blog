@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-const list = ({ blog }) => {
+const BlogList = ({ blog }) => {
   return (
     <div className="max-w-sm rounded overflow-hidden shadow-lg">
       <div className="px-6 py-4">
@@ -34,4 +34,4 @@ const list = ({ blog }) => {
   );
 };
 
-export default list;
+export default BlogList;

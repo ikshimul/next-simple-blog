@@ -1,7 +1,8 @@
 import Menu from "@/components/Menu";
 import styles from "./page.module.css";
 import blogData from "@/data/blogData.json";
-import List from "./../../components/blog/List";
+import BlogList from "@/components/blog/BlogList";
+
 const page = () => {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
@@ -15,7 +16,7 @@ const page = () => {
 
       <div className="grid grid-cols-1 mt-2 md:grid-cols-2 lg:grid-cols-4 gap-6">
         {blogData.map((post) => {
-          return <List key={post.id} blog={post} />;
+          return <BlogList key={post.id} blog={post} />;
         })}
       </div>
 

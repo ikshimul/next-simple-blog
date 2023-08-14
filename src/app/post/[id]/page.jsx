@@ -2,7 +2,6 @@ import Menu from "@/components/Menu";
 import styles from "./page.module.css";
 import Details from "@/components/blog/Details";
 import blogData from "@/data/blogData.json";
-import { useRouter } from "next/navigation";
 
 const page = ({ params }) => {
   const id = params.id;
