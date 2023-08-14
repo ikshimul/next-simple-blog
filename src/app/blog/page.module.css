@@ -1,0 +1,13 @@
+.imgStyle{
+    width: 10%;
+}
+.myColor{
+  color: black;
+  font-weight: 600;
+  padding-bottom: 10px;
+}
+.myBlog{
+  color: blue;
+  font-weight: 600;
+  font-style: italic;
+}

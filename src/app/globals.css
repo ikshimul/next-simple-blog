@@ -25,3 +25,12 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+.active-link{
+  color:blueviolet;
+  font-weight: 600;
+}
+.pending-link{
+  color: black;
+  font-weight: 600;
+}
+

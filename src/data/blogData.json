@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "adipisci placeat illum aut reiciendis qui",
+        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Culpa fugiat libero iure commodi quo odit vel ab! Rerum tenetur dolores porro facilis totam, delectus cumque doloribus iusto ea obcaecati error!",
+        "date": "2023-08-14"
+    },
+    {
+        "id": 2,
+        "title": "voluptate et itaque vero tempora molestiae",
+        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Culpa fugiat libero iure commodi quo odit vel ab! Rerum tenetur dolores porro facilis totam, delectus cumque doloribus iusto ea obcaecati error!",
+        "date": "2023-08-15"
+    },
+    {
+        "id": 3,
+        "title": "in quibusdam tempore odit est dolorem",
+        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Culpa fugiat libero iure commodi quo odit vel ab! Rerum tenetur dolores porro facilis totam, delectus cumque doloribus iusto ea obcaecati error!",
+        "date": "2023-08-16"
+    },
+    {
+        "id": 4,
+        "title": "dolorem eum magni eos aperiam quia",
+        "content":"ut aspernatur corporis harum nihil quis provident sequi mollitia nobis aliquid molestiae perspiciatis et ea nemo ab reprehenderit accusantium quas voluptate dolores velit et doloremque molestiae",
+        "date": "2023-08-16"
+    },
+    {
+        "id": 5,
+        "title": "dolorum ut in voluptas mollitia et saepe",
+        "content":"dolore placeat quibusdam ea quo vitae magni quis enim qui quis quo nemo aut saepe quidem repellat excepturi ut quia sunt ut sequi eos ea sed quas",
+        "date": "2023-08-16"
+    }
+]
